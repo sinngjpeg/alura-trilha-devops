@@ -43,3 +43,7 @@ LINKS DOS ENCONTROS AO VIVO:
 6. [Santander Imersão Digital - Trilha DevOps - Encontro 6](https://www.youtube.com/watch?v=H7RNn2XCrMU)
 7. [Santander Imersão Digital - Trilha DevOps - Encontro 7](https://www.youtube.com/watch?v=Dx4GQ7yzFug)
 8. [Santander Imersão Digital - Trilha DevOps - Encontro 8](https://www.youtube.com/watch?v=f176YZThZeE)
+
+LINKS UTÉIS
+
+https://empresas.alura.com.br/trilha-devops
