@@ -11,7 +11,7 @@ Semana 02
 
 Semana 03
 
-04. [Linux: gerenciamento de diretórios, aruivos, permissões e processos]()
+04. [Linux: gerenciamento de diretórios, arquivos, permissões e processos]()
 
 Semana 04
 
