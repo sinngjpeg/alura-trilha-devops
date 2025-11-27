@@ -3,11 +3,11 @@
 Semana 01
 
 01. Começando em Programação: carreira e primeiros passos ☑️
-02. [Lógica de Programação: mergulhe em programação e JavaScript](https://github.com/sinngjpeg/alura-numero-secreto/tree/main) ☑️
+02. [Lógica de Programação: mergulhe em programação e JavaScript](https://github.com/sinngjpeg/alura-numero-secreto/tree/numero-secreto-1) ☑️
 
 Semana 02 
 
-03. [Lógica de Programação: explore funções e listas]() ☑️
+03. [Lógica de Programação: explore funções e listas](https://github.com/sinngjpeg/alura-numero-secreto/tree/main) ☑️
 
 Semana 03
 
